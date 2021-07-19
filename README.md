@@ -1,2 +1,2 @@
 # AI_Course
-Assignment and Projects of AI
+V-Sem Assignments and Projects of Artificial Intelligence and Neural Networks, NIT Raipur.
